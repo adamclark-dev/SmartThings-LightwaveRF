@@ -1,4 +1,4 @@
-# smartthings-lighwaverf
+# SmartThings LightwaveRF Integration
 
 This integration allows you to turn control your [LightwaveRF](http://lightwaverf.com/) devices from the [SmartThings](http://www.smartthings.com/) mobile and web applications.
 
