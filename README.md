@@ -7,7 +7,7 @@ I haven't checked but am sure this will be against the LightwaveRF terms of serv
 ## Installation
 1. Create a new device type (https://graph.api.smartthings.com/ide/devices)
 
-2. Select from code at the top and paste the contents of [onOffDevice.groovy](https://github.com/adamclark-dev/smartthings-lighwaverf/blob/master/onOffDevice.groovy) into it. Then click create.
+2. Click the select from code tab at the top of the page and paste the contents of [onOffDevice.groovy](https://github.com/adamclark-dev/smartthings-lighwaverf/blob/master/onOffDevice.groovy) into it. Then click create.
 
 3. Create a new device (https://graph.api.smartthings.com/device/list)
     * Name: Your Choice
