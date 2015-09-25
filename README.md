@@ -2,6 +2,8 @@
 
 This integration allows you to turn control your [LightwaveRF](http://lightwaverf.com/) devices from the [SmartThings](http://www.smartthings.com/) mobile and web applications.
 
+I haven't checked but am sure this will be against the LightwaveRF terms of service, so please use at your own risk.
+
 ## Installation
 1. Create a new device type (https://graph.api.smartthings.com/ide/devices)
 
