@@ -5,7 +5,7 @@ This integration allows you to turn control your [LightwaveRF](http://lightwaver
 I haven't checked but am sure this will be against the LightwaveRF terms of service, so please use at your own risk.
 
 ## Installation
-For video instruction of how to install a device wathc this [Youtube video](https://www.youtube.com/watch?v=THVWnSFZSI0).
+For video instructions of how to install a device watch this [Youtube video](https://www.youtube.com/watch?v=THVWnSFZSI0).
 
 1. Create a new device type (https://graph.api.smartthings.com/ide/devices)
 
